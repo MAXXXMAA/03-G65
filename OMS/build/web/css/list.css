@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/04/2019, 6:40:28 PM
+    Author     : difeima
+*/
+
+.container {
+    margin-top: 8%;
+    margin-left: 8%;
+    margin-bottom: 3%;
+}
+            
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px grey;
+    -moz-box-shadow: -1px 9px 40px -12px grey;
+    box-shadow: -1px 9px 40px -12px grey;
+}
